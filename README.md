@@ -8,7 +8,7 @@ A Benchmark for Comprehensive Binary Translation Performance Evaluation.
 # install prerequests
 ./install.sh
 # compile workloads
-./btbench.py install
+./btbench.py -a install
 ```
 
 ## Running
